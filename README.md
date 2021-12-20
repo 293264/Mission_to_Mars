@@ -4,15 +4,11 @@ The current version of Robin's web app is functional and looks good, but she nee
 To complete the assignment, I had to execute the following 
 
 
-  1.	Scrape Full-Resolution Mars Hemisphere Images and Titles. 
-   
-  Using BeautifulSoup and Splinter I scraped full-resolution images of Mars’s hemispheres and the titles of those images.
+1. **Scrape Full-Resolution Mars Hemisphere Images and Titles.** 
+   Using BeautifulSoup and Splinter I scraped full-resolution images of Mars’s hemispheres and the titles of those images.
 
+2. **Update the Web App with Mars Hemisphere Images and Titles.** 
+   Using Python and HTML skills, I added the code I created in Deliverable 1 to my scraping.py file, updated the Mongo database, and modified my index.html file so that the webpage contains all the information I collected as well as the full-resolution image and title for each hemisphere image.
 
-  2.	Update the Web App with Mars Hemisphere Images and Titles.
-  
-  Using your Python and HTML skills, I added the code I created in Deliverable 1 to my scraping.py file, updated Mongo database,  and modify my index.html file so that the webpage contains all the information I collected as well as the full-resolution image and title for each hemisphere image.
-
-  3.	Add Bootstrap 3 Components.
-  
-  For this part of the Challenge, update the web app to make it mobile-responsive, and add two additional Bootstrap 3 components to make it stand out.
+3. **Add Bootstrap 3 Components.**
+   For this part of the Challenge, I updated the web app to make it mobile-responsive, and add two additional Bootstrap 3 components to make it stand out.
